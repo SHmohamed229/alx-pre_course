@@ -3,7 +3,11 @@ echo
 #!/bin/bash
 <<<<<<< HEAD
 ALX
+<<<<<<< HEAD
 echo ALX School is so cool!
 =======
 echo ALX School
 >>>>>>> update_script
+=======
+echo ALX School 
+>>>>>>> da06b5d31cc7b4847beab20b00c71a7cf7f0e824
